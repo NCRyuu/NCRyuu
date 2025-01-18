@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Teixeira
+Bonjour, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Filipe Rafael Teixeira David
 =======================================================================================================================================
 
-Learning Data Science and Machine Learning
+Science de données et Machine Learning
 ------------------------------------------
 
-I am in my 2nd Bachelor's year in International Trade and I am currently learning Data Science and Machine Learning as a side project since it's something that I really like.
+Je suis en première année de Master en Logistique, Marketing, Distribution à l'université Paris 1 Panthéon-Sorbonne. Je fais des projets de Machine Learning et de visualisation de données en tant que projet personnels car c'est un sujet qui me passionne.
 
-* 🌍  I'm based in Paris
-* ✉️  You can contact me at [rafaelteixeira1431@gmail.com](mailto:rafaelteixeira1431@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Projects
+* 🌍  Je vis à Pairs
+* ✉️  Vous pouvez me contacter à [fr.di@hotmail.fr](mailto:fr.di@hotmail.fr)
+* 🧠  J'approfondis mes connaissances en Python. Notamment les libraries: Scikit-learn, Pandas, Numpy, Matplotlib et Seaborn
 
-### Skills
+### Compétences
 
 
 <p align="left">
